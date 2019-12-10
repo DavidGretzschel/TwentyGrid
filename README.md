@@ -15,3 +15,7 @@ GitHub - DavidGretzschel/TwentyGrid: The best hotkey-layout for Age of Empires 2
 
 more on the official AgeOfEmpires-forum:
 https://forums.ageofempires.com/t/presenting-the-twentygrid-hotkey-profile/64704
+
+
+### notes:
+I'd be happy if this profile was integrated into the game itself. At the moment that wouldn't make sense, since alt+F4 would still open up the "quit game dialogue" instead of showing control group 20.
