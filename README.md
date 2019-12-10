@@ -13,7 +13,7 @@ once you’re done playing and miss using alt+F4.
 If this page should be inaccesible you can always get everything at my GitHub-repo, too:
 GitHub - DavidGretzschel/TwentyGrid: The best hotkey-layout for Age of Empires 2.
 
-more on the official AgeOfEmpires-forum:
+more on the official AgeOfEmpires-forum:  
 https://forums.ageofempires.com/t/presenting-the-twentygrid-hotkey-profile/64704
 
 
